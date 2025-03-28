@@ -3,3 +3,7 @@ This is a repository for a research article that is currently under peer review 
 
 ## Data Source
 Please view the data from Toronto police service here: https://data.torontopolice.on.ca/datasets/TorontoPS::arrests-and-strip-searches-rbdc-arr-tbl-001/about
+
+
+## Publication
+The resulting article is currently under peer review. A pre-print version can be found on SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118289
