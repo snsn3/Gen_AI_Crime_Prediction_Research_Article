@@ -7,3 +7,6 @@ Please view the data from Toronto police service [here](https://data.torontopoli
 
 ## Publication of a Pre-print Version
 The resulting article is currently under peer review. A pre-print version can be found on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118289).
+
+# Funding
+My doctoral research is funded by Canada's Social Sciences and Humanities Research Council (SSHRC) through the [Canada Vanier Graduate Scholarships](https://vanier.gc.ca/en/home-accueil.html)
