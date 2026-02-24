@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Generative AI and Machine Learning for Crime Prediction — Research Code"
+message: "If you use this software or data in your work, please cite the pre-print and this repository."
+type: software
+authors:
+  - family-names: "Nzobonimpa"
+    given-names: "Stany"
+url: "https://github.com/snsn3/Gen_AI_Crime_Prediction_Research_Article"
+repository-code: "https://github.com/snsn3/Gen_AI_Crime_Prediction_Research_Article"
+preferred-citation:
+  type: article
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118289"
+  note: "Pre-print under peer review. Please cite the SSRN pre-print when using this work."
+license: MIT
+date-released: 2025-06-01

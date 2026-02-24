@@ -1,0 +1,6 @@
+# Gen AI Crime Prediction Research — dependencies
+# Python >=3.8 recommended
+
+pandas>=2.0.0
+scikit-learn>=1.2.0
+xgboost>=2.0.0
