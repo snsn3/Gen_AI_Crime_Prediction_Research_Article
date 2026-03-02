@@ -65,6 +65,8 @@ pip install -r requirements.txt
 
 - **Citing this repository:** A `CITATION.cff` file is included. You can use it with tools that support [Citation File Format](https://citation-file-format.github.io/), or cite the repository URL and the SSRN pre-print.
 
+- **Published article:** [Journal of Responsible Technology - Elsevier ](https://doi.org/10.1016/j.jrt.2026.100160)
+
 ---
 
 ## License
