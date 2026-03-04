@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Nzobonimpa"
     given-names: "Stany"
-ORCID: 0000-0001-6196-950X
+orcid: 0000-0001-6196-950X
 url: "https://github.com/snsn3/AI_crime_prediction_experiment"
 repository-code: "https://github.com/snsn3/AI_crime_prediction_experiment"
 preferred-citation:
@@ -14,5 +14,6 @@ preferred-citation:
   note: "Pre-print under peer review. Please cite the SSRN pre-print when using this work."
 license: MIT
 date-released: 2025-06-01
+
 
 
